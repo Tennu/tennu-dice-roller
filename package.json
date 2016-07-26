@@ -5,7 +5,7 @@
   "main": "plugin.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LordWingZero/tennu-dice-roller"
+    "url": "https://github.com/Tennu/tennu-dice-roller"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
