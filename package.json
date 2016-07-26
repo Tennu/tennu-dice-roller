@@ -1,0 +1,22 @@
+{
+  "name": "tennu-dice-roller",
+  "version": "4.0.5",
+  "description": "An advanced dice roller for the tennu IRC bot framework",
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LordWingZero/tennu-dice-roller"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "author": "Victorio Berra",
+  "license": "ISC",
+  "dependencies": {
+    "droll": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}

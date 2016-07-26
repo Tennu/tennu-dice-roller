@@ -1,0 +1,8 @@
+{
+    "droll": {
+        "droll": [
+            "Rolls dice and shows individual results",
+            "!dr 2d4+10"
+        ]
+    }
+}
