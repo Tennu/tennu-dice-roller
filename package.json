@@ -1,6 +1,6 @@
 {
   "name": "tennu-dice-roller",
-  "version": "4.0.6",
+  "version": "4.0.7",
   "description": "An advanced dice roller for the tennu IRC bot framework",
   "main": "plugin.js",
   "repository": {
